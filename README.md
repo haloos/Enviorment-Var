@@ -1,3 +1,3 @@
 # Enviorment-Var
 
-Some environmental example 
+Some environmental examples
